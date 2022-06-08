@@ -1,6 +1,8 @@
 # vuex-settings
-vuex settings
+npm i --save vuex
 
-# npm i --save vuex (important)
-vue3 = vuex version 4 ↑
-vue2 = vuex version 4 ↓
+# vue3 (important)
+vuex version 4 ↑
+
+# vue2 (important)
+vuex version 4 ↓
